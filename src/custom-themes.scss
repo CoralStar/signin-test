@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/mixins"
+
+@import "~bootstrap/scss/bootstrap";
+@import 'react-markdown-editor-lite/lib/style.css'
+
+$theme-colors: {
+  $primary: #001b38;
+  $btn-primary: #4caf50;
+}
